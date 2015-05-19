@@ -3,7 +3,13 @@ Few use cases and nice web sites
 1) http://www.skyboximaging.com/ - Image Processing
 2) http://www.cityofboston.gov/DoIT/apps/streetbump.asp - Streetbump. Mapping the potholes using crowd sourcing
 3) https://www.innocentive.com/ - Incentives for innovative ideas
+4) http://gsis.mediacore.tv/media/bbc-horizon-the-age-of-big-data - BBC Horizon: Age of Big Data
+5) http://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/ - How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did
+6) 
 
+
+Powered by Hadoop
+1) https://wiki.apache.org/hadoop/PoweredBy
 
 
 
@@ -15,3 +21,13 @@ http://hadoopbeforestarting.blogspot.in/2012/12/difference-between-hadoop-old-ap
 
 
 Debugging MapReduce with Eclipse - https://www.youtube.com/watch?v=D6qDOfHx2mo
+
+Very useful books related to Hadoop
+
+Hadoop: The Definitive Guide by Tom White
+Hadoop in Practice by Alex Holmes
+Hadoop mapreduce cookbook by Srinath Perera
+Hadoop Real-World Solutions Cookbook by Jonathan R. Owens, Brian Femiano, Jon Lentz
+Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen
+Programming Pig by Alan Gates
+Professional Hadoop Solutions by 
