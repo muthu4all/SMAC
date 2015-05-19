@@ -1,0 +1,17 @@
+Few use cases and nice web sites
+
+1) http://www.skyboximaging.com/ - Image Processing
+2) http://www.cityofboston.gov/DoIT/apps/streetbump.asp - Streetbump. Mapping the potholes using crowd sourcing
+3) https://www.innocentive.com/ - Incentives for innovative ideas
+
+
+
+
+
+
+Difference between Hadoop 1 and Hadoop 2
+http://hadoopbeforestarting.blogspot.in/2012/12/difference-between-hadoop-old-api-and.html
+
+
+
+Debugging MapReduce with Eclipse - https://www.youtube.com/watch?v=D6qDOfHx2mo
