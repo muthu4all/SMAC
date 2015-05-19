@@ -30,4 +30,4 @@ Hadoop mapreduce cookbook by Srinath Perera
 Hadoop Real-World Solutions Cookbook by Jonathan R. Owens, Brian Femiano, Jon Lentz
 Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen
 Programming Pig by Alan Gates
-Professional Hadoop Solutions by 
+Professional Hadoop Solutions by Boris Lublinsky, Kevin T. Smith, Alexey Yakubovich
