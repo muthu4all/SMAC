@@ -22,7 +22,8 @@ http://hadoopbeforestarting.blogspot.in/2012/12/difference-between-hadoop-old-ap
 
 Debugging MapReduce with Eclipse - https://www.youtube.com/watch?v=D6qDOfHx2mo
 
-Very useful books related to Hadoop
+Useful books related to Hadoop
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hadoop: The Definitive Guide by Tom White
 Hadoop in Practice by Alex Holmes
@@ -31,3 +32,13 @@ Hadoop Real-World Solutions Cookbook by Jonathan R. Owens, Brian Femiano, Jon Le
 Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen
 Programming Pig by Alan Gates
 Professional Hadoop Solutions by Boris Lublinsky, Kevin T. Smith, Alexey Yakubovich
+
+
+Hadoop Ecosystem
+~~~~~~~~~~~~~~~~
+https://hadoopecosystemtable.github.io/ - Lists different technology and its references
+
+Apache Pig
+~~~~~~~~~~
+Executing multiple reducers at the same time. : http://pig.apache.org/docs/r0.8.1/cookbook.html#Use+the+Parallel+Features
+
