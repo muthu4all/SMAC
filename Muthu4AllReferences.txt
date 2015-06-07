@@ -32,6 +32,7 @@ Hadoop Real-World Solutions Cookbook by Jonathan R. Owens, Brian Femiano, Jon Le
 Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen
 Programming Pig by Alan Gates
 Professional Hadoop Solutions by Boris Lublinsky, Kevin T. Smith, Alexey Yakubovich
+https://www.packtpub.com/big-data-and-business-intelligence/pig-design-patterns
 
 
 Hadoop Ecosystem
