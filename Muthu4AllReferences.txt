@@ -42,4 +42,5 @@ https://hadoopecosystemtable.github.io/ - Lists different technology and its ref
 Apache Pig
 ~~~~~~~~~~
 Executing multiple reducers at the same time. : http://pig.apache.org/docs/r0.8.1/cookbook.html#Use+the+Parallel+Features
+Passing param to pig script - https://wiki.apache.org/pig/ParameterSubstitution
 
