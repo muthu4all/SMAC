@@ -52,7 +52,7 @@ Custom sort and shuffle: https://hadoop.apache.org/docs/stable/hadoop-mapreduce-
 Difference between Integer and IntWritable: http://stackoverflow.com/questions/19441055/why-does-hadoop-need-classes-like-text-or-intwritable-instead-of-string-or-integ
 http://www.quora.com/What-are-the-differences-between-Java-serialization-and-Hadoop-serialization
 
-
+File Split Across Boundaries: http://stackoverflow.com/questions/14291170/how-does-hadoop-process-records-split-across-block-boundaries
 
 
 
