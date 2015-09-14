@@ -45,5 +45,14 @@ Executing multiple reducers at the same time. : http://pig.apache.org/docs/r0.8.
 Passing param to pig script - https://wiki.apache.org/pig/ParameterSubstitution
 
 partition sample: Partition: http://hadooptutorial.wikispaces.com/Custom+partitioner
+Custom Partition: http://www.oodlestechnologies.com/blogs/Partitioning-in-Hadoop-Implement-A-Custom-Partitioner
+
+Custom sort and shuffle: https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/PluggableShuffleAndPluggableSort.html
+
+Difference between Integer and IntWritable: http://stackoverflow.com/questions/19441055/why-does-hadoop-need-classes-like-text-or-intwritable-instead-of-string-or-integ
+http://www.quora.com/What-are-the-differences-between-Java-serialization-and-Hadoop-serialization
+
+
+
 
 
