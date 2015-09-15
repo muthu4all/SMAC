@@ -19,8 +19,15 @@ Difference between Hadoop 1 and Hadoop 2
 http://hadoopbeforestarting.blogspot.in/2012/12/difference-between-hadoop-old-api-and.html
 
 
-
+Debug MR in Eclipse
+~~~~~~~~~~~~~~~~~~~~~
 Debugging MapReduce with Eclipse - https://www.youtube.com/watch?v=D6qDOfHx2mo
+
+http://www.thecloudavenue.com/2012/10/debugging-hadoop-mapreduce-program-in.html
+
+Identity Reducer
+~~~~~~~~~~~~~~~~~
+https://hadoop.apache.org/docs/current/api/org/apache/hadoop/mapred/lib/IdentityReducer.html
 
 Useful books related to Hadoop
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
