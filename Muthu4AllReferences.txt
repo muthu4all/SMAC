@@ -66,6 +66,13 @@ BigData Ecosystem
 ~~~~~~~~~~~~~~~~~
 https://github.com/zenkay/bigdata-ecosystem
 
+Data Science Books
+~~~~~~~~~~~~~~~~~~
+Data Science from Scratch: First Principles with Python
+Data Smart: Using Data Science to Transform Information into Insight
+Doing Data science
+Practical Data Science with R
+
 
 
 
