@@ -61,6 +61,8 @@ http://www.quora.com/What-are-the-differences-between-Java-serialization-and-Had
 
 File Split Across Boundaries: http://stackoverflow.com/questions/14291170/how-does-hadoop-process-records-split-across-block-boundaries
 
+Embedded pig - https://wiki.apache.org/pig/EmbeddedPig
+
 
 BigData Ecosystem
 ~~~~~~~~~~~~~~~~~
