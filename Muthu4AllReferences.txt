@@ -63,6 +63,12 @@ File Split Across Boundaries: http://stackoverflow.com/questions/14291170/how-do
 
 Embedded pig - https://wiki.apache.org/pig/EmbeddedPig
 
+HBase
+~~~~~
+Shell filters
+http://www.hadooptpoint.com/filters-in-hbase-shell/
+http://www.cloudera.com/content/www/en-us/documentation/enterprise/latest/topics/admin_hbase_filtering.html
+
 
 BigData Ecosystem
 ~~~~~~~~~~~~~~~~~
