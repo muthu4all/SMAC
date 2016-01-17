@@ -63,6 +63,11 @@ File Split Across Boundaries: http://stackoverflow.com/questions/14291170/how-do
 
 Embedded pig - https://wiki.apache.org/pig/EmbeddedPig
 
+Hadoop Source
+~~~~~~~~~~~~~
+
+https://hadoop.apache.org/version_control.html
+
 HBase
 ~~~~~
 Shell filters
