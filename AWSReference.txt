@@ -1,6 +1,7 @@
 CIDR Details.
 
 http://software77.net/cidr-101.html
+http://www.subnet-calculator.com/cidr.php
 
 
 Instance Meta Data: 
