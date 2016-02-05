@@ -1,1 +1,7 @@
+CIDR Details.
+
 http://software77.net/cidr-101.html
+
+
+Instance Meta Data: 
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
