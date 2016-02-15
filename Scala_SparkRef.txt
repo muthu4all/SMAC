@@ -1,0 +1,3 @@
+Scala Setup Guide
+
+http://www.tutorialspoint.com/scala/scala_environment_setup.htm
