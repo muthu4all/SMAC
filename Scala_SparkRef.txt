@@ -1,3 +1,17 @@
 Scala Setup Guide
 
 http://www.tutorialspoint.com/scala/scala_environment_setup.htm
+
+
+compact buffer : https://github.com/apache/spark/blob/master/core/src/main/scala/org/apache/spark/util/collection/CompactBuffer.scala
+
+Scala Books
+Programming Scala - by Dean Wampler, Alex Payne from O'Reilly Media
+Programming Scala - by Venkat Subramaniam from The Pragmatic Programmers
+Functional Programming in Scala - by Paul Chiusano, Runar Bjarnason from Manning
+
+Scala Cookbook - Alvin Alexander
+
+http://www.scala-lang.org/docu/files/ScalaByExample.pdf
+
+http://www.scala-lang.org/docu/files/ScalaTutorial.pdf
