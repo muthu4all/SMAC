@@ -15,3 +15,8 @@ Scala Cookbook - Alvin Alexander
 http://www.scala-lang.org/docu/files/ScalaByExample.pdf
 
 http://www.scala-lang.org/docu/files/ScalaTutorial.pdf
+
+
+Graph Referece
+http://jwilson.coe.uga.edu/emat6680/yamaguchi/emat6690/essay1/gt.html
+
