@@ -21,6 +21,7 @@ Scala Implicit : http://docs.scala-lang.org/overviews/core/implicit-classes.html
 
 SparkSQL connect to SQL (Postgre)
 https://developer.ibm.com/bluemix/2015/09/04/speed-sql-queries-spark-sql/
+http://www.sparkexpert.com/2015/01/02/load-database-data-into-spark-using-jdbcrdd-in-java/
 
 
 
