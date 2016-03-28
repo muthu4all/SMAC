@@ -19,6 +19,11 @@ http://www.scala-lang.org/docu/files/ScalaTutorial.pdf
 
 Scala Implicit : http://docs.scala-lang.org/overviews/core/implicit-classes.html
 
+SparkSQL connect to SQL (Postgre)
+https://developer.ibm.com/bluemix/2015/09/04/speed-sql-queries-spark-sql/
+
+
+
 Graph Referece
 http://jwilson.coe.uga.edu/emat6680/yamaguchi/emat6690/essay1/gt.html
 http://world.mathigon.org/Graph_Theory
