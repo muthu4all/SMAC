@@ -40,6 +40,7 @@ Programming Hive by Edward Capriolo, Dean Wampler, Jason Rutherglen
 Programming Pig by Alan Gates
 Professional Hadoop Solutions by Boris Lublinsky, Kevin T. Smith, Alexey Yakubovich
 https://www.packtpub.com/big-data-and-business-intelligence/pig-design-patterns
+Hadoop Application Architectures by Mark Grover
 
 
 Hadoop Ecosystem
