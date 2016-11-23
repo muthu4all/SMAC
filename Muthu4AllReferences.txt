@@ -88,5 +88,8 @@ Doing Data science
 Practical Data Science with R
 
 
+Hive complex types
+~~~~~~~~~~~~~~~~~~
+http://bigdatariding.blogspot.in/2014/02/hive-complex-data-types-with-examples.html
 
 
