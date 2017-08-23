@@ -29,7 +29,7 @@ https://github.com/datastax/spark-cassandra-connector
 
 Graph Referece
 http://jwilson.coe.uga.edu/emat6680/yamaguchi/emat6690/essay1/gt.html
-http://world.mathigon.org/Graph_Theory
+https://mathigon.org/course/graphs-and-networks
 https://en.wikipedia.org/wiki/Shortest_path_problem
 http://www.slideshare.net/Tech_MX/interesting-applications-of-graph-theory
 https://prezi.com/tseh1wvpves-/application-of-graph-theory-in-real-world/
