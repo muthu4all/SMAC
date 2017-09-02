@@ -92,4 +92,8 @@ Hive complex types
 ~~~~~~~~~~~~~~~~~~
 http://bigdatariding.blogspot.in/2014/02/hive-complex-data-types-with-examples.html
 
+Hive Avro
+~~~~~~~~~
+https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_ig_hive.html
+https://cwiki.apache.org/confluence/display/Hive/AvroSerDe
 
