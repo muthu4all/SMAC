@@ -36,3 +36,10 @@ https://prezi.com/tseh1wvpves-/application-of-graph-theory-in-real-world/
 
 Vehicle Routing Problem
 http://www.bernabe.dorronsoro.es/vrp/
+
+API
+http://www.cis.upenn.edu/~matuszek/cis554-2011/Pages/scala-api.html
+
+
+
+https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Scala.html
