@@ -1,3 +1,8 @@
 Hadoop Roolback
 
 http://www.michael-noll.com/blog/2011/08/23/performing-an-hdfs-upgrade-of-an-hadoop-cluster/#how-to-roll-back-an-hdfs-upgrade
+
+Useful Books
+Hadoop Security: Protecting Your Big Data Platform - Ben Spivey, Joey Echeverria
+Hadoop Operations: A Guide for Developers and Administrators - Eric Sammer
+Hadoop Operations and Cluster Management Cookbook -  Shumin Guo
