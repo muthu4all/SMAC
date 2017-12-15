@@ -97,3 +97,8 @@ Hive Avro
 https://www.cloudera.com/documentation/enterprise/5-4-x/topics/cdh_ig_hive.html
 https://cwiki.apache.org/confluence/display/Hive/AvroSerDe
 https://www.cloudera.com/documentation/enterprise/5-6-x/topics/cdh_ig_hive_metastore_configure.html
+
+Difference between Hiveserver1 and Hiveserver2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://toodey.com/2015/07/25/what-is-beeline-in-latest-hiveserver2-difference-between-hiveserver1-and-hiveserver2/
+
